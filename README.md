@@ -1,4 +1,4 @@
-# PersonalAndSchool
+# Trevor LeCrone's Portfolio
 Personal and academic projects of mine.
 
 Academic projects may contain some sample or example code provided by instructors, but with credit and acknowledgement to the provider(s) of the code.
